@@ -175,6 +175,6 @@ TEXT_EFFECT(240, 240, 120) {
 }
 
 TEXT_EFFECT(240, 240, 124) {
-    apply_gradient(rgb(112,255,141), rgb(34,227,179), rgb(61,217,245));
+    apply_gradient(rgb(112, 255, 141), rgb(34, 227, 179), rgb(61, 217, 245));
     apply_shimmer();
 }
